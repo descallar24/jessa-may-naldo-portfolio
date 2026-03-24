@@ -1,0 +1,163 @@
+{
+  "settings": {
+    "name": "Jessa May Naldo",
+    "title": "Medical Virtual Assistant & Remote Medical Scheduling Specialist",
+    "location": "Philippines",
+    "summary": "Detail-oriented Medical Virtual Assistant and Remote Medical Scheduling Specialist with expertise in patient access and healthcare administration.",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D5603AQGMGUXQ2SfiKA/profile-displayphoto-shrink_200_200/B56ZZeN5AeHgAY-/0/1745337422449?e=2147483647&v=beta&t=lWJa1yKjgtAlDF21zFAUYL8R1GFpXFpwZCESRBmA1vU"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:jesssamaynaldo7@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Patient Appointment Scheduling",
+          "Provider Scheduling",
+          "Insurance Verification",
+          "EMR/EHR Management",
+          "HIPAA Compliance",
+          "Medical Records Processing",
+          "Patient Intake",
+          "Healthcare Compliance",
+          "Executive Support",
+          "CRM Systems",
+          "High-Volume Communication",
+          "IntakeQ",
+          "TherapyNotes",
+          "AMS360",
+          "Applied Epic",
+          "Zendesk",
+          "Avaya",
+          "Telzio",
+          "Google Workspace",
+          "Microsoft Office"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Dedicated Sleep",
+          "position": "Medical Records Specialist",
+          "period": "June 2025 - Present",
+          "description": "Processed and maintained patient records with 100% HIPAA compliance. Managed high-volume record requests, prioritizing urgent clinical cases. Improved EMR data retrieval efficiency by 15% through structured record organization."
+        },
+        {
+          "company": "SOAR Therapy & Integrated Wellness",
+          "position": "Medical Virtual Assistant – Psychiatric Practice (Part-Time)",
+          "period": "October 2024 – April 2025",
+          "description": "Managed complex provider scheduling and patient appointments. Conducted insurance verification and reviewed patient intake documentation. Updated EMR systems while maintaining strict confidentiality standards."
+        },
+        {
+          "company": "PrimECS",
+          "position": "Executive Assistant to CEO (Construction Industry)",
+          "period": "October 2024 – April 2025",
+          "description": "Managed a high-volume executive inbox (100+ emails daily), reducing response time by 30%. Coordinated complex calendar scheduling for meetings, site visits, and subcontractor calls, preventing conflicts and improving executive efficiency. Supported project administration in Procore, tracking documents and deadlines to ensure 100% on-time task completion."
+        },
+        {
+          "company": "Support Zebra",
+          "position": "Insurance Specialist",
+          "period": "August 2020 – November 2023",
+          "description": "Verified insurance policies and audited records for compliance accuracy. Communicated policy updates and maintained data integrity."
+        },
+        {
+          "company": "Teleperformance",
+          "position": "Customer Service Representative",
+          "period": "October 2018 – May 2020",
+          "description": "Handled high-volume inbound calls and documented interactions in CRM systems. Escalated urgent matters to appropriate departments efficiently."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": []
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Pilgrim Christian College",
+          "degree": "Bachelor of Science in Accountancy (Undergraduate)",
+          "period": "Not specified"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Top Performer",
+          "description": ""
+        },
+        {
+          "title": "Perfect Attendance",
+          "description": ""
+        },
+        {
+          "title": "Zero Client Error Record",
+          "description": ""
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "jesssamaynaldo7@gmail.com",
+      "phone": "+63 905 862 2838",
+      "location": "Philippines"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Jessa May Naldo. All rights reserved."
+  }
+}
